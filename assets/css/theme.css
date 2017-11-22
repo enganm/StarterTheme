@@ -1104,8 +1104,7 @@ body#checkout {
 .checkout-step.-complete > h1 {
   color: #008000;
 }
-.checkout-step.-current .content,
-.checkout-step.-js-current .content {
+.checkout-step.-current .content {
   display: block;
 }
 .checkout-step button.continue {
@@ -1419,5 +1418,3 @@ nav.pagination .current a {
 }
 /*# sourceMappingURL=css/st/dev.css.map */body {
   background: #fefefe; }
-
-/*# sourceMappingURL=theme.css.map*/
