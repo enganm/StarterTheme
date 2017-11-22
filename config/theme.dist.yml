@@ -1,10 +1,10 @@
-name: StarterTheme
-display_name: Starter Theme
-version: 3.0.0
+name: Blarg
+display_name: Blarg
+version: 0.0.1
 author:
-  name: "PrestaShop Team"
-  email: "pub@prestashop.com"
-  url: "http://www.prestashop.com"
+  name: "M Engan"
+  email: "mathias@engan.se"
+  url: "www.engan.se"
 
 meta:
   compatibility:
